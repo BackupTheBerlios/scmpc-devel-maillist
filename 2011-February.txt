@@ -1,0 +1,18 @@
+From angelos at gentoo.org  Mon Feb 21 09:35:33 2011
+From: angelos at gentoo.org (Christoph Mende)
+Date: Mon, 21 Feb 2011 09:35:33 +0100
+Subject: [Scmpc-devel] scmpc-0.3.0 released
+Message-ID: <AANLkTi=zMBtipmN6uWuEipz0QY2KeUdK+Ziz-jCnjAbm@mail.gmail.com>
+
+After over 4 years of silence, I've released my first version of
+scmpc-0.3.0. This is a complete rewrite. Here is the list of changes:
+
+- Last.fm Now Playing support
+- UNIX domain socket support (mpd 0.14)
+- a lot of code cleanup
+- mpd idle support (mpd 0.14)
+- respect MPD_PORT/MPD_HOST from environment
+- support for the Last.fm submission protocol v1.2.1
+- new command line option: -k/--kill - kill the running scmpc
+
+
